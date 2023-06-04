@@ -1,0 +1,16 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    background: black;
+}  
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+canvas {
+    background-image: url(1623908948_2-phonoteka_org-p-shestiugolnii-pattern-krasivo-2.jpeg);
+    background-image: 1px solid white;
+}
